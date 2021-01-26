@@ -1,0 +1,50 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+table, tr, th {
+    border: 1px solid black;
+    text-align: center;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+.color {
+    background-color: #B7DA19;
+}
+#hour {
+    height: 80px;
+    background-color: #FFFFFF;
+}
+#day {
+    background-color: #E5E5E5;
+}
+#hours {
+    height: 60px;
+    background-color: #E5E5E5;
+}
+#yoga {
+    background-color: #009bcc;
+}
+#bike {
+    background-color: #96c21f;
+}
+#self {
+    background-color: #e65686 ;
+}
+#boxe {
+    background-color: #d9006b; 
+}
+#stretch {
+    background-color: #11bcaf;
+}
+#cardio {
+    background-color: #7459ad;
+}
+#img {
+    background-image: url(../TP\ HTML\ CSS/stripes.png);
+}
+#crossfit {
+    background-color: #ec6b05;
+}
